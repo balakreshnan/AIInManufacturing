@@ -1,8 +1,8 @@
 
 # An Intelligent, AI Process Control Solution for Automated Pick and Place Equipment in Electronic Assembly Manufacturing
 
-## Embracing Industry 4.0 Digital Transformation  
-## Published January 2019 
+### Embracing Industry 4.0 Digital Transformation  
+### Published January 2019 
 
 ## Authors:
 Greg Vance (Rockwell Automation)
@@ -110,8 +110,7 @@ knowledge conveyed in the generated information that is extracted during this
 operation to learn potential defects and other tendencies of interest, yet to be
 discovered.
 
-
-
+![alt text](https://github.com/balakreshnan/PickAndPlace/blob/master/images/pic1.png "SMT process")
 ```
 Figure 1 – Electronic assembly line
 ```
@@ -168,6 +167,7 @@ behavior, the team was able to define a predictive monitoring algorithm which re
 leveraging a modern high-performance computing workbench with AI helpers and
 parallel data processing engines.
 
+![alt text](https://github.com/balakreshnan/PickAndPlace/blob/master/images/pic2.png "Nozzle Report")
 ```
 Figure 2 - Descriptive-analytic machine performance
 ```
@@ -203,7 +203,7 @@ direction of an AI-based algorithm that could learn and trace the behavior of in
 nozzles, as shown in Figure 3.
 
 
-
+![alt text](https://github.com/balakreshnan/PickAndPlace/blob/master/images/pic3.png "Nozzle Behaviour")
 ```
 Figure 3 – Forecast nozzle tendency
 ```
@@ -273,7 +273,7 @@ model gets more robust, the new model will be deployed to the plant. The score r
 for various models will be stored in a central location to other validation purpose.
 
 
-
+![alt text](https://github.com/balakreshnan/PickAndPlace/blob/master/images/pic4.png "Architecture")
 ```
 Figure 4 – Azure Databricks-based development
 ```

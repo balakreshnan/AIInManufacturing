@@ -5,13 +5,14 @@
 ### Published January 2019 
 
 ## Authors:
-Greg Vance (Rockwell Automation)
-Mikica Cvijetinovic (Rockwell Automation)
-Francisco P Maturana (Rockwell Automation)
-Balamurugan Balakreshnan (Microsoft)
-Michael Walton (Microsoft)
-Stephen Philip (Microsoft)
+- Greg Vance (Rockwell Automation)
+- Mikica Cvijetinovic (Rockwell Automation)
+- Francisco P Maturana (Rockwell Automation)
+- Balamurugan Balakreshnan (Microsoft)
+- Michael Walton (Microsoft)
+- Stephen Philip (Microsoft)
 
+![alt text](https://github.com/balakreshnan/PickAndPlace/blob/master/Pick%20and%20Place%20-%20Microsoft%20Rockwell%20Whitepaper.pdf "Whitepaper Pick and Place")
 
 ## An Intelligent, AI Process Control Solution for Automated Pick and Place Equipment in Electronic Assembly
 

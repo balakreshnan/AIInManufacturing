@@ -7,10 +7,12 @@
 - Athinarayanan, Ragu (Purdue University)
 - Richards, Grant P (Purdue University,)
 - Joseph M. Zaccaria (Rockwell Automation)
+- Michael Cook (Rockwell Automation)
 - Francisco P Maturana (Rockwell Automation)
 - Balamurugan Balakreshnan (Microsoft)
 - Michael Walton (Microsoft)
 - Priya Aswani (Microsoft)
+- Sundar Ramakrishnan (Microsoft)
 
 ## An Intelligent system to detect root cause of a failure in manufacturing engineering and operations
 

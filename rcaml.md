@@ -63,7 +63,7 @@ From the above our approach is to look and see if we can apply machine learning 
 
 The research would be also to see if deep learning can also be applied.
 
-![alt text](https://github.com/balakreshnan/AIInManufacturing/blob/master/mfgopsanalyticsarch.jpg "Architecture")
+![alt text](https://github.com/balakreshnan/AIInManufacturing/blob/master/images/rcadiag.jpg "Architecture")
 
 ```
 Note: please note this is still under development.

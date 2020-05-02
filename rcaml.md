@@ -65,7 +65,6 @@ The research would be also to see if deep learning can also be applied.
 
 ![alt text](https://github.com/balakreshnan/AIInManufacturing/blob/master/images/rcadiag.jpg "Architecture")
 
-
 ## Architecture
 
 ![alt text](https://github.com/balakreshnan/AIInManufacturing/blob/master/images/IndustrialIoT-Kepware1.jpg "Architecture")
